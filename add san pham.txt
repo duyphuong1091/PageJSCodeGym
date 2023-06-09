@@ -1,0 +1,10 @@
+1,Iphone 14.png,Iphone 14,27000000,https://appleinsider.com/inside/iphone-14#:~:text=The%20iPhone%2014%20looks%20identical
+
+2,Iphone 13.png,Iphone 13,16000000,https://appleinsider.com/inside/iphone-13#:~:text=The%20iPhone%2014%20looks%20identical
+
+3,Iphone 12.png,Iphone 12,15000000,https://appleinsider.com/inside/iphone-12#:~:text=The%20iPhone%2014%20looks%20identical
+
+
+4,Vmart.png,Vmart Active 3,1200000,https://www.thegioididong.com/dtdd/vsmart-active-3-6gb#top-tskt
+
+5,Huawei P30 Pro.png, Huawei P30 Pro,5000000,https://www.thegioididong.com/dtdd/huawei-p30-pro#top-article
